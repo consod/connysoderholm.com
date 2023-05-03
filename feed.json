@@ -26,14 +26,15 @@
             "id": "https://consod.github.io/connysoderholm.com/courses/",
             "url": "https://consod.github.io/connysoderholm.com/courses/",
             "title": "Courses",
-            "content_html": "\n\n",
+            "summary": "Become an Excel Power User - Learn how to control &amp; automate Excel with Python and OpenPyXL Do you have a bunch of Excel files that you need to format or put some value in a cell on each page? Do you need to create&hellip;",
+            "content_html": "<p><strong>Become an Excel Power User - Learn how to control &amp; automate Excel with Python and OpenPyXL</strong></p>\n<p>Do you have a bunch of Excel files that you need to format or put some value in a cell on each page? Do you need to create Charts on your spreadsheets or insert formulas? Maybe you just want to show off at the office! Whatever your needs, you can expect a comprehensive guide going through the nuts and bolts of how automating Excel works. The course dives straight into OpenPyXL, so you will be up and running creating and manipulating spreadsheets in no-time.</p>\n<p>I have had so much use of OpenPyXL when dealing with spreadsheets. You can create advanced sorts and filters, insert and delete rows, copy cells, set custom formatting and much more. I even got a job based on my OpenPyXL knowledge. I am sure you will benefit from learning OpenPyXL if you have even the slightest interest in making your everyday life easier.</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"696\" height=\"390\" style=\"width: 696px; height: 390px;\" src=\"https://www.youtube.com/embed/L9rN2Ig-XYI\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p><strong>Become a PDF Power User - Learn how to control &amp; automate PDF's with Python and PyPDF2</strong> </p>\n<p>Do you have a bunch of PDF files that you need to format or merge? Do you need to overlay images on each page? Maybe you just want to show off at the office! Whatever your needs, you can expect a comprehensive guide going through the nuts and bolts of how automating PDF's works. The course dives straight into PyPDF2, so you will be up and running creating and manipulating your PDFs in no-time.</p>\n<p>I have had so much use of PyPDF2 when dealing with PDF's. You can split and merge documents, add metadata, fill in form fields, add javascript, and much more. I am sure you will benefit from learning PyPDF2 if you have even the slightest interest in making your everyday life easier.</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"697\" height=\"391\" style=\"width: 697px; height: 391px;\" src=\"https://www.youtube.com/embed/OeSV0OsqlNY\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
             "author": {
                 "name": "Conny Söderholm"
             },
             "tags": [
             ],
             "date_published": "2021-08-04T06:21:03+03:00",
-            "date_modified": "2023-05-03T21:57:57+03:00"
+            "date_modified": "2023-05-03T22:30:58+03:00"
         },
         {
             "id": "https://consod.github.io/connysoderholm.com/contact-me/",
