@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>connysoderholm.com</title>
+    <link href="https://consod.github.io/connysoderholm.com/feed.xml" rel="self" />
+    <link href="https://consod.github.io/connysoderholm.com" />
+    <updated>2023-05-03T22:17:58+03:00</updated>
+    <author>
+        <name>Conny Söderholm</name>
+    </author>
+    <id>https://consod.github.io/connysoderholm.com</id>
+
+    <entry>
+        <title>Disclosure, disclaimer &amp; privacy policy</title>
+        <author>
+            <name>Conny Söderholm</name>
+        </author>
+        <link href="https://consod.github.io/connysoderholm.com/disclosure-disclaimer-and-privacy-policy/"/>
+        <id>https://consod.github.io/connysoderholm.com/disclosure-disclaimer-and-privacy-policy/</id>
+
+        <updated>2023-05-03T21:57:57+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Courses</title>
+        <author>
+            <name>Conny Söderholm</name>
+        </author>
+        <link href="https://consod.github.io/connysoderholm.com/courses/"/>
+        <id>https://consod.github.io/connysoderholm.com/courses/</id>
+
+        <updated>2023-05-03T21:57:57+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Contact me</title>
+        <author>
+            <name>Conny Söderholm</name>
+        </author>
+        <link href="https://consod.github.io/connysoderholm.com/contact-me/"/>
+        <id>https://consod.github.io/connysoderholm.com/contact-me/</id>
+
+        <updated>2023-05-03T21:57:57+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Blog</title>
+        <author>
+            <name>Conny Söderholm</name>
+        </author>
+        <link href="https://consod.github.io/connysoderholm.com/blog/"/>
+        <id>https://consod.github.io/connysoderholm.com/blog/</id>
+
+        <updated>2023-05-03T21:57:56+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About me</title>
+        <author>
+            <name>Conny Söderholm</name>
+        </author>
+        <link href="https://consod.github.io/connysoderholm.com/about-me/"/>
+        <id>https://consod.github.io/connysoderholm.com/about-me/</id>
+
+        <updated>2023-05-03T22:15:55+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Who is Conny Söderholm? I am a certified European Engineer and learned Python because I wanted to build applications in order to aid me in my job. Soon I discovered a Python library that modified Excel files named OpenPyxl. This was awesome because it enabled&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="headline-27-679" class="ct-headline">Who is Conny Söderholm?</h2>
+<div id="_rich_text-33-679" class="oxy-rich-text">
+<p>I am a certified European Engineer and learned Python because I wanted to build applications in order to aid me in my job.</p>
+<p>Soon I discovered a Python library that modified Excel files named OpenPyxl. This was awesome because it enabled me to edit spreadsheets programmatically!</p>
+<p>I had edited them before with VBA, but Python was really something else.</p>
+<p>I have a Youtube channel that you can check out, and I have also published courses on Udemy.</p>
+<p>Feel free to send me a message and I will be happy to help you with your questions.</p>
+<p>Take care!<figure class="post__image post__image--center"><img loading="lazy"  src="https://consod.github.io/connysoderholm.com/media/posts/13/about_me_conny.jpg" alt="Conny" width="1431" height="1908" sizes="(min-width: 1260px) calc(3.22vw + 703px), (min-width: 900px) calc(50.59vw + 116px), (min-width: 840px) calc(5vw + 684px), calc(85.58vw + 23px)" srcset="https://consod.github.io/connysoderholm.com/media/posts/13/responsive/about_me_conny-xs.jpg 320w ,https://consod.github.io/connysoderholm.com/media/posts/13/responsive/about_me_conny-sm.jpg 480w ,https://consod.github.io/connysoderholm.com/media/posts/13/responsive/about_me_conny-md.jpg 768w"></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Home</title>
+        <author>
+            <name>Conny Söderholm</name>
+        </author>
+        <link href="https://consod.github.io/connysoderholm.com/home/"/>
+        <id>https://consod.github.io/connysoderholm.com/home/</id>
+
+        <updated>2023-05-03T22:17:58+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Hi there! I’m Conny. I am a fan of Python programming especially for modifying Excel data. At this site, you can find blog articles about Python, Excel, OpenPyXL, and PyPDF2.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>Hi there! I’m Conny.</div>
+<div>I am a fan of Python programming especially for modifying Excel data.</div>
+<div>At this site, you can find blog articles about Python, Excel, OpenPyXL, and PyPDF2.</div>
+<div> </div>
+<div><figure class="post__image post__image--center"><img loading="lazy"  src="https://consod.github.io/connysoderholm.com/media/posts/12/CV_picture.jpg" alt="" width="412" height="376" sizes="(min-width: 1260px) calc(3.22vw + 703px), (min-width: 900px) calc(50.59vw + 116px), (min-width: 840px) calc(5vw + 684px), calc(85.58vw + 23px)" srcset="https://consod.github.io/connysoderholm.com/media/posts/12/responsive/CV_picture-xs.jpg 320w ,https://consod.github.io/connysoderholm.com/media/posts/12/responsive/CV_picture-sm.jpg 480w ,https://consod.github.io/connysoderholm.com/media/posts/12/responsive/CV_picture-md.jpg 768w"></figure></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Control PDF with Python &amp; PyPDF2</title>
+        <author>
+            <name>Conny Söderholm</name>
+        </author>
+        <link href="https://consod.github.io/connysoderholm.com/control-pdf-with-python-and-pypdf2/"/>
+        <id>https://consod.github.io/connysoderholm.com/control-pdf-with-python-and-pypdf2/</id>
+            <category term="pypdf2"/>
+
+        <updated>2023-05-03T21:57:58+03:00</updated>
+            <summary>
+                <![CDATA[
+                    My new course Control PDF with Python and PyPDF2 library course is out! Check it out on Udemy. The course got a 9.7/10 on Coursemarks.com also! Do you have a bunch of PDF files that you need to format or merge?&nbsp;Do you need to overlay&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><!-- wp:paragraph --></p>
+<p>My new course Control PDF with Python and PyPDF2 library course is out! Check it out on <a href="https://www.udemy.com/course/control-pdf-with-python-pypdf2/?referralCode=BCABEF19BB6C2310CA40">Udemy</a>. </p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The course got a <strong>9.7/10</strong> on <a href="https://coursemarks.com/course/control-pdf-with-python-pypdf2/">Coursemarks.com</a> also!</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:image {"align":"center","width":446,"height":168,"linkDestination":"custom"} --></p>
+<div class="wp-block-image">
+<figure class="aligncenter is-resized"><a href="https://coursemarks.com/course/control-pdf-with-python-pypdf2/" target="_blank" rel="noopener"><img loading="lazy" src="https://consod.github.io/connysoderholm.com/media/posts/48/97.svg" alt="Control PDF with Python & PyPDF2 rating" width="446" height="168"></a></figure>
+</div>
+<p>
+<!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Do you have a bunch of PDF files that you need to format or merge?&nbsp;Do you need to overlay images on each page? Maybe you just want to show off at the office! Whatever your needs, you can expect a comprehensive guide going through the nuts and bolts of how automating PDFs works. The course dives straight into PyPDF2, so you will be up and running creating and manipulating your PDFs in no-time.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I have had so much use of PyPDF2 when dealing with PDFs. You can split and merge documents, add metadata, fill in form fields, add javascript, and much more. I am sure you will benefit from learning PyPDF2 if you have even the slightest interest in making your everyday life easier.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>After taking this course you will know how to:</em></p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Split and merge PDF pages</li>
+<li>Scale, rotate, split, join, crop, and transform pages</li>
+<li>Read a pdf to memory</li>
+<li>Fill in form fields</li>
+<li>Insert javascript, bookmarks, and metadata</li>
+<li>Overlay images onto PDF&nbsp;pages</li>
+<li>Understand how you could apply this knowledge to your own work</li>
+</ul>
+<p>
+<!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>Check it out on <a href="https://www.udemy.com/course/control-pdf-with-python-pypdf2/?referralCode=BCABEF19BB6C2310CA40">Udemy</a>.</p>
+<p>
+<!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Count the number of pages in a PDF file with Python and PyPDF2</title>
+        <author>
+            <name>Conny Söderholm</name>
+        </author>
+        <link href="https://consod.github.io/connysoderholm.com/count-the-number-of-pages-in-a-pdf-file-with-python-and-pypdf2/"/>
+        <id>https://consod.github.io/connysoderholm.com/count-the-number-of-pages-in-a-pdf-file-with-python-and-pypdf2/</id>
+            <category term="pypdf2"/>
+            <category term="pdf"/>
+            <category term="Python3"/>
+            <category term="Python"/>
+
+        <updated>2023-05-03T21:57:58+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Counting the number of PDF pages Do you need to count the total number of pages in your pdf files? Look no further, as PyPDF2 is here to help you! Here is the documentation: https://pythonhosted.org/PyPDF2/ To count the number of pages in a PDF file,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Counting the number of PDF pages</h2>
+<p>Do you need to count the total number of pages in your pdf files?</p>
+<p>Look no further, as <strong>PyPDF2</strong> is here to help you!</p>
+<p>Here is the documentation: <a href="https://pythonhosted.org/PyPDF2/" target="_blank" rel="noopener noreferrer">https://pythonhosted.org/PyPDF2/</a></p>
+<p>To count the number of pages in a PDF file, you need only four lines of code.</p>
+<p>You can install PyPDF2 with pip (<a href="https://pypi.org/project/PyPDF2/" target="_blank" rel="noopener noreferrer">PyPi link</a>):</p>
+<pre class="EnlighterJSRAW" data-enlighter-language="powershell"><code class="EnlighterJSRAW" data-enlighter-language="generic">py -m pip install PyPDF2<restore-line-break></code></pre>
+<h2>The code</h2>
+<p>Ok ok enough installing, what do we need to do to count the pages?</p>
+<p>First, we want to import the PdfFileReader class from PyPDF2</p>
+<p><code class="EnlighterJSRAW" data-enlighter-language="python">from PyPDF2 import PdfFileReader</code></p>
+<p>After that, we need to open our PDF file in binary reading mode.</p>
+<p><code class="EnlighterJSRAW" data-enlighter-language="python">with open("your_pdf_file.pdf", "rb") as pdf_file:</code></p>
+<p>We then want to instantiate our PdfFileReader object</p>
+<p><code class="EnlighterJSRAW" data-enlighter-language="generic">pdf_reader = PdfFileReader(pdf_file)</code></p>
+<p>We then get the number of pages with the numPages property</p>
+<p><code class="EnlighterJSRAW" data-enlighter-language="generic">print(f"The total number of pages in the pdf document is {pdf_reader.numPages}")</code></p>
+<p>That's it! We have now counted the number of pages in a PDF file with Python!</p>
+<h2>The complete code:</h2>
+<p>
+
+<!-- wp:syntaxhighlighter/code {"language":"python","align":"left"} --></p>
+<pre class="wp-block-syntaxhighlighter-code alignleft">#!/usr/bin/env python3<restore-line-break><restore-line-break>"""<restore-line-break>Extracting number of pages in the document<restore-line-break><restore-line-break>getNumPages()<restore-line-break>Calculates the number of pages in this PDF file.<restore-line-break><restore-line-break>Returns:    number of pages<restore-line-break>Return type:    int<restore-line-break>Raises PdfReadError:<restore-line-break>    if file is encrypted and restrictions prevent this action.<restore-line-break>    <restore-line-break>numPages<restore-line-break>Read-only property that accesses the getNumPages() function.<restore-line-break>"""<restore-line-break><restore-line-break>from PyPDF2 import PdfFileReader<restore-line-break><restore-line-break># Load the pdf to the PdfFileReader object with default settings<restore-line-break>with open("your_pdf_file.pdf", "rb") as pdf_file:<restore-line-break>    pdf_reader = PdfFileReader(pdf_file)<restore-line-break>    print(f"The total number of pages in the pdf document is {pdf_reader.numPages}")</pre>
+<p>
+<!-- /wp:syntaxhighlighter/code --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Rotate PDF files with PyPdf2 and Tkinter!</title>
+        <author>
+            <name>Conny Söderholm</name>
+        </author>
+        <link href="https://consod.github.io/connysoderholm.com/rotate-pdf-files-with-pypdf2-and-tkinter/"/>
+        <id>https://consod.github.io/connysoderholm.com/rotate-pdf-files-with-pypdf2-and-tkinter/</id>
+            <category term="tkinter"/>
+            <category term="pypdf2"/>
+            <category term="pdf"/>
+            <category term="Python"/>
+
+        <updated>2023-05-03T21:57:58+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Rotating PDF files with PyPDF2 and Tkinter Introduction Sometimes we need simple and basic tools to get the job done. At work, we have people that use pdf files daily, on which they need to perform certain manual operations. One of these operations is rotating&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Rotating PDF files with PyPDF2 and Tkinter</h2>
+<h2>Introduction</h2>
+<p>Sometimes we need simple and basic tools to get the job done. At work, we have people that use pdf files daily, on which they need to perform certain manual operations. One of these operations is rotating pages. Thinking of programming a pdf rotator can look quite massive at first, but is it really?</p>
+<p>To build our tool, we need to be able to rotate the pdf in three ways, clockwise, counterclockwise and 180 degrees. For simplicity, we want to rotate all pdf files in our current working directory. The user shall also be able to use the finished script, without installing Python or any dependencies on Windows. Let us walk through the steps in creating our tool.</p>
+<h2>Step 1 - PyPDF2 for rotating pages</h2>
+<p>Rotating a pdf with <a href="https://pythonhosted.org/PyPDF2/" target="_blank" rel="noopener noreferrer">PyPDF2</a> can be done with the <a href="https://pythonhosted.org/PyPDF2/PageObject.html" target="_blank" rel="noopener noreferrer">PageObject</a> class's method RotateClockwise. The method takes one Int parameter, <code class="EnlighterJSRAW" data-enlighter-language="python">angle</code>which defines the rotation degrees. Note that the angle have to be specified in incremetns of 90°. There is no possibility of rotating a PDF page for example 55°.</p>
+<p>Ok, we know how to rotate our page, now we need to load our PDF file into memory. After that, we need to initialize our PdfFileReader and PdfFileWriter objects. We can then loop through our pages by using the readers numPages variable. We get the page, rotate it, write it to our new PDF and then save it to disc.</p>
+<pre class="EnlighterJSRAW" data-enlighter-language="python">import PyPDF2<br>with open("test.pdf", "rb") as pdf_file:<restore-line-break>    pdf_reader = PyPDF2.PdfFileReader(pdf_file)<restore-line-break>    pdf_writer = PyPDF2.PdfFileWriter()<restore-line-break><restore-line-break>    print("Rotating", degrees)<restore-line-break><restore-line-break>    for page_num in range(pdf_reader.numPages):<restore-line-break>        pdf_page = pdf_reader.getPage(page_num)<restore-line-break>        pdf_page.rotateClockwise(degrees)<restore-line-break>                    <restore-line-break>        pdf_writer.addPage(pdf_page)<restore-line-break><restore-line-break>        with open("test_rotated.pdf", "wb") as pdf_file_rotated:<restore-line-break>            pdf_writer.write(pdf_file_rotated)</pre>
+<h2>Step 2 - Giving the user an interface</h2>
+<p>A command line interface might work for many users, but believe me, a Graphical USer Interface (GUI) beats a Command Line Interface (CLI) by lightyears for the average user. To easily create our interface, we use <a href="https://wiki.python.org/moin/TkInter" target="_blank" rel="noopener noreferrer">Tkinter</a>. We need three Radiobuttons for specifying the rotations, Left, Right and 180 degrees. We also need some kind of descripte text to guide the user, as well as a Button for being able to start the rotation. See the code comments for further descriptions.</p>
+<pre class="EnlighterJSRAW" data-enlighter-language="python">import tkinter as tk<restore-line-break># Create our root widget, set title and size<restore-line-break>master = tk.Tk()<restore-line-break>master.title("PDF rotator")<restore-line-break>master.geometry("400x100")<restore-line-break><restore-line-break># Create a IntVar for getting our rotate values<restore-line-break>master.degrees = tk.IntVar()<restore-line-break><restore-line-break># Create a description label and a couple radiobuttons, add them to the widget<restore-line-break>tk.Label(master, text="Rotates all pdf in the current folder the selected degrees.").grid(row=0,columnspan=4)<restore-line-break>tk.Radiobutton(master, text="Right 90 degrees", variable=master.degrees, value=90).grid(row=1,column=1)<restore-line-break>tk.Radiobutton(master, text="Left 90 degrees", variable=master.degrees, value=-90).grid(row=1,column=2)<restore-line-break>tk.Radiobutton(master, text="180 degrees", variable=master.degrees, value=180).grid(row=1,column=3)<restore-line-break><restore-line-break># Create a button for calling our function<restore-line-break>master.ok_button = tk.Button(master, command=rotate_pdf, text="Rotate pdf files")<restore-line-break>master.ok_button.grid(row=2,column=1)<restore-line-break><restore-line-break># Run<restore-line-break>tk.mainloop()</pre>
+<h2>Step 3 - Getting the files</h2>
+<p>We want to rotate all pdf files in the folder where our script is contained. </p>
+<pre class="EnlighterJSRAW" data-enlighter-language="python">import os<restore-line-break># Get all the files in current folder from where we are running the script<restore-line-break>files = [f for f in os.listdir('.') if os.path.isfile(f)]<restore-line-break>files = list(filter(lambda f: f.lower().endswith(('.pdf')), files))</pre>
+<h2>Step 4 - Putting it all together</h2>
+<p>Here is the complete code for rotating our pdf files. Enjoy!</p>
+<pre class="EnlighterJSRAW" data-enlighter-language="python">#!/usr/bin/env python3<restore-line-break># -*- coding: <utf-8> -*-<restore-line-break><restore-line-break>import PyPDF2<restore-line-break>import tkinter as tk<restore-line-break>import os<restore-line-break>import sys<restore-line-break><restore-line-break># Get all the files in current folder from where we are running the script<restore-line-break>files = [f for f in os.listdir('.') if os.path.isfile(f)]<restore-line-break>files = list(filter(lambda f: f.lower().endswith(('.pdf')), files))<restore-line-break><restore-line-break># main rotate pdf function<restore-line-break>def rotate_pdf(*args):<restore-line-break>    degrees = master.degrees.get()<restore-line-break>    pdf_rotator(files, degrees)<restore-line-break><restore-line-break># The pdf rotator<restore-line-break>def pdf_rotator(files, degrees):<restore-line-break>    <restore-line-break>    for filename in files:<restore-line-break>        if degrees != 0 and degrees != "":<restore-line-break>            with open(filename, "rb") as pdf_file:<restore-line-break>                pdf_reader = PyPDF2.PdfFileReader(pdf_file)<restore-line-break>                pdf_writer = PyPDF2.PdfFileWriter()<restore-line-break><restore-line-break>                print("Rotating", degrees)<restore-line-break><restore-line-break>                for page_num in range(pdf_reader.numPages):<restore-line-break>                    pdf_page = pdf_reader.getPage(page_num)<restore-line-break>                    pdf_page.rotateClockwise(degrees)<restore-line-break>                    <restore-line-break>                    pdf_writer.addPage(pdf_page)<restore-line-break><restore-line-break>                with open(filename[:-4]+"rotated_"+str(degrees)+".pdf", "wb") as pdf_file_rotated:<restore-line-break>                    pdf_writer.write(pdf_file_rotated)<restore-line-break>    sys.exit()<restore-line-break><restore-line-break># Create our root widget, set title and size<restore-line-break>master = tk.Tk()<restore-line-break>master.title("PDF rotator")<restore-line-break>master.geometry("400x100")<restore-line-break><restore-line-break># Create a IntVar for getting our rotate values<restore-line-break>master.degrees = tk.IntVar()<restore-line-break><restore-line-break># Create a description label and a couple radiobuttons, add them to the widget<restore-line-break>tk.Label(master, text="Rotates all pdf in the current folder the selected degrees.").grid(row=0,columnspan=4)<restore-line-break>tk.Radiobutton(master, text="Right 90 degrees", variable=master.degrees, value=90).grid(row=1,column=1)<restore-line-break>tk.Radiobutton(master, text="Left 90 degrees", variable=master.degrees, value=-90).grid(row=1,column=2)<restore-line-break>tk.Radiobutton(master, text="180 degrees", variable=master.degrees, value=180).grid(row=1,column=3)<restore-line-break><restore-line-break># Create a button for calling our function<restore-line-break>master.ok_button = tk.Button(master, command=rotate_pdf, text="Rotate pdf files")<restore-line-break>master.ok_button.grid(row=2,column=1)<restore-line-break><restore-line-break># Run<restore-line-break>tk.mainloop()<restore-line-break></pre>
+</p>
+<p>
+
+<!-- wp:paragraph --></p>
+<p>
+<!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Transpose or rotate Excel cell data with OpenPyXL</title>
+        <author>
+            <name>Conny Söderholm</name>
+        </author>
+        <link href="https://consod.github.io/connysoderholm.com/transpose-or-rotate-excel-cell-data-with-openpyxl/"/>
+        <id>https://consod.github.io/connysoderholm.com/transpose-or-rotate-excel-cell-data-with-openpyxl/</id>
+            <category term="openpyxl"/>
+            <category term="Transpose"/>
+            <category term="Excel"/>
+
+        <updated>2023-05-03T21:57:58+03:00</updated>
+            <summary>
+                <![CDATA[
+                    In Excel there is a neat Paste Special method named Transpose. The transpose is done by copying your cells and then pasting the data to another place with the transpose option. We can easily do the same with Python and OpenPyXL. There are currently (To&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><!-- wp:heading --></p>
+<h2>Introduction</h2>
+<p>
+<!-- /wp:heading --></p>
+<p>In Excel there is a neat Paste Special method named <em>Transpose</em>. The <a href="https://support.office.com/en-us/article/transpose-rotate-data-from-rows-to-columns-or-vice-versa-3419f2e3-beab-4318-aae5-d0f862209744" target="_blank" rel="noopener noreferrer">transpose</a> is done by copying your cells and then pasting the data to another place with the transpose option. We can easily do the same with <a href="https://python.org/" target="_blank" rel="noopener noreferrer">Python</a> and <a href="https://openpyxl.readthedocs.io/en/stable/" target="_blank" rel="noopener noreferrer">OpenPyXL</a>.</p>
+<p>
+
+<!-- wp:image {"id":541,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><figure class="wp-image-541"><img loading="lazy" src="https://consod.github.io/connysoderholm.com/media/posts/45/image-1.png" alt=""  sizes="(min-width: 1260px) calc(3.22vw + 703px), (min-width: 900px) calc(50.59vw + 116px), (min-width: 840px) calc(5vw + 684px), calc(85.58vw + 23px)" srcset="https://consod.github.io/connysoderholm.com/media/posts/45/responsive/image-1-xs.png 320w ,https://consod.github.io/connysoderholm.com/media/posts/45/responsive/image-1-sm.png 480w ,https://consod.github.io/connysoderholm.com/media/posts/45/responsive/image-1-md.png 768w"></figure>
+<figcaption>Transposed cells in Excel.</figcaption>
+</figure>
+<p>
+<!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>There are currently (To the author's knowledge, December 2019) no transpose functions or methods written in OpenPyXL. I have made a small code sample that transposes rows to columns and columns to rows. Only cell data is transposed with these functions. The functions are divided into three main functions. </p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>The functions</h2>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Transpose</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>The first function is Transpose, which takes an OpenPyXL worksheet and which rows and columns to transpose the values to/from. The function uses two loops, which first traverses the rows and then the columns. We set the worksheet's cell values with <code>ws.cell(row=col,column=row).value = ws.cell(row=row,column=col).value</code>. To set the values, we just invert the column and row values.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Transpose_row_to_col and transpose_col_to_row</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>I have expanded these functions to accept also the target cell to paste the values in, and also the option to delete the transposed cells values. The functions are identical except for the usage of <a rel="noreferrer noopener" aria-label="iter_rows (opens in a new tab)" href="https://openpyxl.readthedocs.io/en/stable/api/openpyxl.worksheet.worksheet.html#openpyxl.worksheet.worksheet.Worksheet.iter_rows" target="_blank">iter_rows</a> and <a rel="noreferrer noopener" aria-label="iter_cols (opens in a new tab)" href="https://openpyxl.readthedocs.io/en/stable/api/openpyxl.worksheet.worksheet.html#openpyxl.worksheet.worksheet.Worksheet.iter_cols" target="_blank">iter_cols</a>. The <code>target_cell_address</code> is a tuple consisting of the cell's absolute address. If <code>delete_source</code> is True the values in the transposed cells are deleted.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>First, an empty list called <code>cell_values</code> is created. After that we use the iter_rows method to iterate through the worksheets rows, one by one. The iter_rows produces cells from the worksheet, by row while the iter_cols returns cells by column. The cells are yielded from a <a rel="noreferrer noopener" aria-label="generator (opens in a new tab)" href="https://wiki.python.org/moin/Generators" target="_blank">generator</a>.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>We append the values of the cells to our <code>cell_ranges</code> list. We then use the <code>fill_cells</code> function to enter the values again to our transposed cells.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I hope that this helps you in transposing and rotating your cell values. As always, if you have any questions or comments please let me know.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>Complete code</h2>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:enlighter/codeblock {"language":"python"} --></p>
+<pre class="EnlighterJSRAW" data-enlighter-language="python" data-enlighter-theme="" data-enlighter-highlight="" data-enlighter-linenumbers="" data-enlighter-lineoffset="" data-enlighter-title="" data-enlighter-group="">#!/usr/bin/env python3<restore-line-break><restore-line-break>"""<restore-line-break>Transpose row values to column values and vice versa<restore-line-break>"""<restore-line-break><restore-line-break>import openpyxl<restore-line-break><restore-line-break>def transpose(ws, min_row, max_row, min_col, max_col):<restore-line-break>    for row in range(min_row, max_row+1):<restore-line-break>        for col in range(min_col, max_col+1):<restore-line-break>            ws.cell(row=col,column=row).value = ws.cell(row=row,column=col).value<restore-line-break><restore-line-break>def transpose_row_to_col(ws, min_row, max_row, min_col, max_col, target_cell_address=(1,1), delete_source=False):<restore-line-break>    cell_values = []<restore-line-break>    for row in ws.iter_rows(min_row=min_row, max_row=max_row, min_col=min_col, max_col=max_col):<restore-line-break>        for cell in row:<restore-line-break>            cell_values.append(cell.value)<restore-line-break>            if delete_source:<restore-line-break>                cell.value = ""<restore-line-break>    fill_cells(ws, target_cell_address[0], target_cell_address[1], cell_values)<restore-line-break>        <restore-line-break>def transpose_col_to_row(ws, min_row, max_row, min_col, max_col, target_cell_address=(1,1), delete_source=False):<restore-line-break>    cell_values = []<restore-line-break>    for col in ws.iter_cols(min_row=min_row, max_row=max_row, min_col=min_col, max_col=max_col):<restore-line-break>        for cell in col:<restore-line-break>            cell_values.append(cell.value)<restore-line-break>            if delete_source:<restore-line-break>                cell.value = ""<restore-line-break>    fill_cells(ws, target_cell_address[0], target_cell_address[1], cell_values)<restore-line-break><restore-line-break>def fill_cells(ws, start_row, start_column, cell_values):<restore-line-break>    row = start_row<restore-line-break>    column = start_column<restore-line-break>    for value in cell_values:<restore-line-break>        ws.cell(row=row,column=column).value = value<restore-line-break>        row += 1<restore-line-break><restore-line-break>if __name__ == "__main__":<restore-line-break>    # Open workbook<restore-line-break>    file_name = "Transpose_cell_values.xlsx"<restore-line-break>    wb = openpyxl.load_workbook(file_name)<restore-line-break>    ws1 = wb.worksheets[0]<restore-line-break>    transpose(ws1, min_row=1, max_row=1, min_col=1, max_col=5)<restore-line-break>    #transpose_col_to_row(ws1, min_row=1, max_row=10, min_col=1, max_col=1, target_cell_address=(1,2))<restore-line-break>    wb.save(file_name)</pre>
+<p>
+<!-- /wp:enlighter/codeblock --></p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
